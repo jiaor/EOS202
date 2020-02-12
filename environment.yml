@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - matplotlib.pyplot
+  - matplotlib
   - pandas
-  - scipy.signal
+  - scipy
   - time
