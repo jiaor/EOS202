@@ -6,3 +6,7 @@ dependencies:
   - matplotlib
   - scipy
   - time
+  - xsimlab
+  - fastscape
+  - hvplot
+  - plotly
