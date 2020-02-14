@@ -7,7 +7,7 @@ dependencies:
   - scipy
   - time
   - xarray
-  - xsimlab
+  - xarray-simlab
   - fastscape
   - hvplot
   - plotly
