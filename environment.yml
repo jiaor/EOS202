@@ -15,3 +15,6 @@ dependencies:
   - pywget
   - cartopy
   - obspy
+  - pip
+  - pip:
+    - mplstereonet
