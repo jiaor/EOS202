@@ -4,17 +4,17 @@ channels:
 dependencies:
   - numpy
   - matplotlib=3.1.1
-  - scipy
-  - time
-  - xarray
-  - xarray-simlab
-  - fastscape
-  - hvplot
+#  - scipy
+#  - time
+#  - xarray
+#  - xarray-simlab
+#  - fastscape
+#  - hvplot
   - plotly
-  - pandas
-  - pywget
-  - cartopy
-  - obspy
-  - pip
-  - pip:
-    - mplstereonet
+#  - pandas
+#  - pywget
+#  - cartopy
+#  - obspy
+#  - pip
+#  - pip:
+#    - mplstereonet
